@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/bean/Post.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/bean/PostType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/bean/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/dao/BaseDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/dao/ResultSetHander.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/service/CommentServise.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/service/NoticeServise.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/service/PostServise.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/service/UserServise.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/AddCommentServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/AddPostServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/CheckState.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/DeleteComments.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/DeletePosts.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/HeadImage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/Logout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/NoticesAdmin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/NoticesServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/PostDetail.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/PostList.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/RegisterServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/ReplyPost.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/ThemeServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/UserComments.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/UserPosts.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/servlet/UserServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/util/SysConstant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/cqut/edu/util/SysUtil.java" charset="GBK" />
+  </component>
+</project>
